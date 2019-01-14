@@ -1,0 +1,7 @@
+IL10	Interleukin 10
+CD4	CD4 antigen
+ABO	Glycosyltransferases
+ALB	Serum albumin
+BCL2	Apoptosis regulator Bcl-2 / B-cell CLL/lymphoma 2
+CCR5	chemokine (C-C motif) receptor 5
+CD8	CD8 antigen
